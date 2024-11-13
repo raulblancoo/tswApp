@@ -15,8 +15,6 @@ Este proyecto contiene la aplicación **ComPay**, una aplicación web desarrolla
 ## ✅ Requisitos
 
 - **Docker**: [Instalar Docker](https://docs.docker.com/get-docker/)
-- **Docker Compose**: [Instalar Docker Compose](https://docs.docker.com/compose/install/)
-
 
 ## 🚀 Instalación
 

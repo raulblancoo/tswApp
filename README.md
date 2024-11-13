@@ -24,7 +24,7 @@ Este proyecto contiene la aplicación **ComPay**, una aplicación web desarrolla
 
    ```bash
    git clone https://github.com/raulblancoo/tswApp.git
-   cd mi-repositorio
+   cd tswApp
    ```
 
 ## ▶️ Ejecutar la aplicación

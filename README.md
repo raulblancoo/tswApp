@@ -23,7 +23,7 @@ Este proyecto contiene la aplicación **ComPay**, una aplicación web desarrolla
 **Clona este repositorio** en tu máquina local:
 
    ```bash
-   git clone https://github.com/tuusuario/mi-repositorio.git
+   git clone https://github.com/raulblancoo/tswApp.git
    cd mi-repositorio
    ```
 
